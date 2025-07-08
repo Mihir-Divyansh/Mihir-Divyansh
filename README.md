@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mihir Divyansh
 
 ## About Me
-I'm a **B.Tech Electrical Engineering** student at **IIT Hyderabad** (Class of 2027) with an interest in electronics and systems design, and creative technology. 
+I'm a **B.Tech Electrical Engineering** student at **IIT Hyderabad** (Class of 2027) with an interest in electronics, systems design, and creative technology. 
 
 ## Technical Skills
 
