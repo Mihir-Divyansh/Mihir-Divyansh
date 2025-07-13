@@ -28,6 +28,7 @@ Custom FPGA-based handheld gaming console featuring:
 - A 3D graphics pipeline
 - Custom game and audio engines
 - Complete hardware design and fabrication
+- Audio Engine can be found at Prism-Audio inside the main repo
 
 ### Course Management [Discord Bot](https://github.com/Mihir-Divyansh/fwc-course-bot)
 Automated Discord bot for academic workflow:
@@ -36,6 +37,8 @@ Automated Discord bot for academic workflow:
 
 ### RRAM [Simulation Tool](https://github.com/vs00007/EE2503-NMDM)
 C-based simulator for modeling current flow through traps in Oxide Layers
+
+### Adaptive [Noise Canceller](https://github.com/Mihir-Divyansh/EE2800-Final-Project)
 
 ### Analog Synthesizer
 System and IC-based design for creating variable gain and frequency subsystems, to create a synthesizer
