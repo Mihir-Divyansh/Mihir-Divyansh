@@ -35,10 +35,10 @@ Automated Discord bot for academic workflow:
 - Course material and work distribution
 - Task automation for professors and students
 
-### RRAM [Simulation Tool](https://github.com/vs00007/EE2503-NMDM)
+### [Simulation Tool](https://github.com/vs00007/EE2503-NMDM) for RRAMs
 C-based simulator for modeling current flow through traps in Oxide Layers
 
-### Adaptive [Noise Canceller](https://github.com/Mihir-Divyansh/EE2800-Final-Project)
+### Real Time Adaptive [Noise Canceller](https://github.com/Mihir-Divyansh/EE2800-Final-Project)
 
 ### Analog Synthesizer
 System and IC-based design for creating variable gain and frequency subsystems, to create a synthesizer
