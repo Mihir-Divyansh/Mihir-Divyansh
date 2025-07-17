@@ -7,7 +7,8 @@ I'm a **B.Tech Electrical Engineering** student at **IIT Hyderabad** (Class of 2
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00299C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00499C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-2075BB?style=for-the-badge&logo=matlab&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=matlab&logoColor=white)
 
